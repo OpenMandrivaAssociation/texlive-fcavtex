@@ -1,6 +1,6 @@
 Name:		texlive-fcavtex
 Version:	38074
-Release:	1
+Release:	2
 Summary:	A thesis class for the FCAV/UNESP (Brazil)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fcavtex
