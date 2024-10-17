@@ -3,7 +3,7 @@ Version:	38074
 Release:	2
 Summary:	A thesis class for the FCAV/UNESP (Brazil)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fcavtex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fcavtex
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fcavtex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fcavtex.doc.r%{version}.tar.xz
